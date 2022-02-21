@@ -41,7 +41,7 @@ h1, h2 {
 #background-image {
     height: 500px;
     width: 100%;
-    background-image: url('../images/dzogchen-beara-buddhist\ home\ page.jpg') no-repeat center center;
+    background: url('../images/dzogchen-beara-buddhist\ home\ page.jpg') no-repeat center center;
 }
 
 /* gallery */
