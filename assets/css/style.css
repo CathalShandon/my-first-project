@@ -1,0 +1,57 @@
+* {
+    margin: 0;
+    padding: 0;
+    border: none;
+}
+
+
+body {
+    font-family: Oswald, sans-serif;
+    font-weight: 200;
+    color: #3a3a3a;
+}
+/* headings and logo */
+
+h1, h2 {
+    font-family: Oswald, sans-serif;
+    text-transform: uppercase;
+    letter-spacing: 3px;
+    color: #252525;
+}
+
+#logo {
+    float: left;
+}
+
+/* navigation links */
+
+#menu {
+    font-size: 110%;
+    letter-spacing: 4px;
+}
+
+#menu li {
+    float: right;
+    list-style-type: none;
+    margin-right: 30px;
+}
+
+/* background image */
+
+#background-image {
+    height: 500px;
+    width: 100%;
+    background-image: url('../images/dzogchen-beara-buddhist\ home\ page.jpg') no-repeat center center;
+}
+
+/* gallery */
+
+#photos {
+    clear: both;
+    line-height: 0;
+    column-count: 4;
+    column-gap: 0;
+}
+#photos > img {
+    width: 100%;
+}
