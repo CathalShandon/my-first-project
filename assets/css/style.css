@@ -132,13 +132,14 @@ img {
 /* footer */
 
 footer {
-    height: 150px;
+    height: 150px;    
 }
 .social-network {
     text-align: center;
 }
 .social-network > li {
     display: inline;
+    text-align: center;
 }
 
 .social-network i {
@@ -146,5 +147,5 @@ footer {
     margin: 1%;
     padding: 5%;
     color: #3a3a3a;
-    background-color: snow;
+    
 }
