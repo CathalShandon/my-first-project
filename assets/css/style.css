@@ -121,9 +121,30 @@ img {
 #photos {
     clear: both;
     line-height: 0;
-    column-count: 4;
+    column-count: 3;
     column-gap: 0;
+    height: 50%;
 }
 #photos > img {
     width: 100%;
+}
+
+/* footer */
+
+footer {
+    height: 150px;
+}
+.social-network {
+    text-align: center;
+}
+.social-network > li {
+    display: inline;
+}
+
+.social-network i {
+    font-size: 160%;
+    margin: 1%;
+    padding: 5%;
+    color: #3a3a3a;
+    background-color: snow;
 }
