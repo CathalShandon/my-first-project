@@ -96,13 +96,7 @@ img {
     clear: both;
     margin-bottom: 50px;
 }
-.right-about-heading h2 {
-    text-align: right;
-}
 
-.right-about-heading p {
-    text-align: right;
-}
 
 #shrine-room {
    height: 100%;
@@ -136,14 +130,15 @@ footer {
 }
 .social-network {
     text-align: center;
+   
 }
 .social-network > li {
     display: inline;
-    text-align: center;
+   
 }
 
 .social-network i {
-    font-size: 160%;
+    font-size: 150%;
     margin: 1%;
     padding: 5%;
     color: #3a3a3a;
