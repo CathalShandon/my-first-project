@@ -70,18 +70,15 @@ img {
 }
 #left-about {
     padding-top: 30px;
-    width: 33%;
+    width: 45%;
     float: left;
 }
 #right-about {
     padding-top: 30px;
-    width: 33%;
+    width: 45%;
     float: right;
 }
-#center-about {
-    width: 33%;
-    margin: 0 auto;
-}
+
 .left-about-heading {
     width: 60%;
     float: right;
@@ -98,29 +95,20 @@ img {
 }
 
 
-#shrine-room {
-   height: 100%;
-    border: 1px solid #ddd;
-    border-radius: 3px;
-    padding: 5px;
-    width: 80%; 
-    height: 450px;
-}
-.photo {
-    height: 100%;
-    width: 100%;
-}
+
 /* gallery */
 
 #photos {
     clear: both;
     line-height: 0;
-    column-count: 3;
+    column-count: 1;
     column-gap: 0;
     height: 50%;
 }
 #photos > img {
-    width: 100%;
+    width: 80%;
+    height: 100px;
+    object-fit: cover;
 }
 
 /* footer */
