@@ -290,4 +290,171 @@ footer {
     hr {
         display: none;
     }
+    .location-map {
+        margin-top: 5px;
+        padding: 20px;
+        margin-left: 40px;
+    }
+}
+/* meduim screen sizes from 950px wide and down */
+
+@media screen and (max-width: 950px) {
+    #menu {
+        clear: left;
+        float: left;
+        margin-left: 30px;
+        margin-bottom: 20px;
+        line-height: 25px;
+    }
+    #cover-text {
+        left: 0;
+    }
+
+    #come-visit {
+        width: 90%;
+        height: 1200px;
+        margin: 0 auto;
+    }
+    .left-about-heading, .right-about-heading {
+        width: inherit;
+    }
+
+    .left-about-heading h2, .right-about-heading h2 {
+        width: 100%;
+        text-align: center;
+    }
+
+    .left-about-heading p, .right-about-heading p {
+        text-align: center;
+        padding: 0 20px;
+    }
+    .questionnaires hr {
+        width: 0px;
+    }
+
+    .feedback-questionnaire li {
+        line-height: 30px;
+    }
+
+    .additional-remarks h2 {
+        margin-top: 30px;
+    }
+
+    .form-layout {
+        flex-direction: column;
+    }
+
+    .location-map {
+        margin-top: 0px;
+        padding: 0px;
+        margin-left: 0px;
+    }
+
+    .map {
+        width: 680px;
+        height: 400px;
+        margin-left: 10px;
+    }
+}
+
+/*For screen size max width 767 px */
+
+@media screen and (max-width: 767px) {
+    #menu {
+        clear: left;
+        float: left;
+        margin-left: 15px;
+        margin-bottom: 0px;
+        line-height: 10px;
+    }
+    #cover-text {
+        left: 0;
+    }
+
+    #club-ethos {
+        width: 90%;
+        height: 1200px;
+        margin: 0 auto;
+    }
+    .left-about-heading, .right-about-heading {
+        width: inherit;
+    }
+
+    .left-about-heading h2, .right-about-heading h2 {
+        width: 100%;
+        text-align: center;
+    }
+
+    .left-about-heading p, .right-about-heading p {
+        text-align: center;
+        padding: 0 20px;
+    }
+    .questionnaires hr {
+        width: 0px;
+    }
+
+    .feedback-questionnaire li {
+        line-height: 30px;
+    }
+
+    .additional-remarks h2 {
+        margin-top: 30px;
+    }
+
+    .contact-details {
+        width: 100%;
+    }
+
+    .radio-botton {
+        margin: 0px 10px 10px 0px;
+        width: 100%;
+    }
+
+    .feedback-questionnaire {
+        padding-left: 0px;
+    }
+
+    .additional-remarks h2 {
+        font-size: 135%;
+    }
+
+    .questionnaires h2 {
+        font-size: 135%;
+    }
+
+    .questionnaires h3 {
+        font-size: 120%;
+    }
+
+    .contact-details h2 {
+        font-size: 135%;
+    }
+
+    .contact-heading h2 {
+        font-size: 140%;
+    }
+
+    .form-layout {
+        display: block;
+    }
+
+    .location-map {
+        margin-top: 0px;
+        padding: 0px;
+        margin-left: 0px;
+    }
+
+    .map {
+        width: 250px;
+        height: 150px;
+        margin-left: 30px;
+    }
+
+    #feedback {
+        padding: 5px;
+    }
+
+    #coagulation {
+        padding: 5px;
+    }
 }
