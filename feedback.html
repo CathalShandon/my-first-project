@@ -27,10 +27,115 @@
                 </li>
             </ul>
         </nav>
-        <section>
-         <h2>
-             
-         </h2>
+        <section id="feedback">
+            <div class="form-layout">
+                <form method="POST" action="https://formdump.codeinstitute.net/" class="contact-form" target="_blank" >
+                    <div class="contact-heading">
+                        <h2>Give us your Feedback</h2>
+                    </div>
+
+                    <div class="contact-details">
+                        <h3>Your details</h3>
+                        <label for="fname">Full Name<i class="fas fa-user"></i></label>
+                        <input id="fname" name="full-name" class="text-adjust" placeholder="Type your full name here" type="text" required>
+                        <label for="email">Email Address<i class="fas fa-at"></i></label>
+                        <input type="email" id="email" name="email-address" placeholder="Type your email address here" required>
+                    </div>
+               
+                    <div class="questionnaires">
+                        <h2>How was your stay</h2>
+                        <h3><b>Please rate overall stay</b></h3>
+                        <hr>
+                    </div>
+               
+                    <div class="feedback-questionnaire">
+                        <ol>
+                            <li>How was the check-in process
+                            <br>
+                            <input type="radio" id="strongly-agree" name="feedback" value="strongly-agree">
+                            <label class="radio-botton" for="strongly-agree">Strongly Agree</label>
+                            <br>
+                            <input type="radio" id="agree" name="feedback" value="agree">
+                            <label class="radio-botton" for="agree">Agree</label>
+                            <br>
+                            <input type="radio" id="neutral" name="feedback" value="neutral">
+                            <label class="radio-botton" for="neutral">Neutral</label>
+                            <br>
+                            <input type="radio" id="disagree" name="feedback" value="disagree">
+                            <label class="radio-botton" for="disagree">Disagree</label>
+                            <br>
+                            <input type="radio" id="strongly-disagree" name="feedback" value="strongly-disagree">
+                            <label class="radio-botton" for="strongly-disagree">Strongly Disagree</label>
+                            <br>
+               
+                            <li>Was your room clean upon arrival?
+                                <br>
+                                <input type="radio" id="strongly-agree-1" name="feedback-1" value="strongly-agree-1">
+                                <label class="radio-botton" for="strongly-agree-1">Strongly Agree</label>
+                                <br>
+                                <input type="radio" id="agree-1" name="feedback-1" value="agree-1">
+                                <label class="radio-botton" for="agree-1">Agree</label>
+                                <br>
+                                <input type="radio" id="neutral-1" name="feedback-1" value="neutral-1">
+                                <label class="radio-botton" for="neutral-1">Neutral</label>
+                                <br>
+                                <input type="radio" id="disagree-1" name="feedback-1" value="disagree-1">
+                                <label class="radio-botton" for="disagree-1">Disagree</label>
+                                <br>
+                                <input type="radio" id="strongly-disagree-1" name="feedback-1" value="strongly-disagree-1">
+                                <label class="radio-botton" for="strongly-disagree-1">Strongly Disagree</label>
+                                <br>
+                                </li>
+               
+                                <li>How did the housekeeping staff do during your stay?
+                                    <br>
+                                    <input type="radio" id="strongly-agree-2" name="feedback-2" value="strongly-agree-2">
+                                    <label class="radio-botton" for="strongly-agree-2">Strongly Agree</label>
+                                    <br>
+                                    <input type="radio" id="agree-2" name="feedback-2" value="agree-2">
+                                    <label class="radio-botton" for="agree-2">Agree</label>
+                                    <br>
+                                    <input type="radio" id="neutral-2" name="feedback-2" value="neutral-2">
+                                    <label class="radio-botton" for="neutral-2">Neutral</label>
+                                    <br>
+                                    <input type="radio" id="disagree-2" name="feedback-2" value="disagree-2">
+                                    <label class="radio-botton" for="disagree-2">Disagree</label>
+                                    <br>
+                                    <input type="radio" id="strongly-disagree-2" name="feedback-2" value="strongly-disagree-2">
+                                    <label class="radio-botton" for="strongly-disagree-2">Strongly Disagree</label>
+                                    <br>
+                                    </li>
+
+                                    <li>How likely are you to recommend our hotel to others?
+                                        <br>
+                                        <input type="radio" id="strongly-agree-3" name="feedback-3" value="strongly-agree-3">
+                                        <label class="radio-botton" for="strongly-agree-3">Strongly Agree</label>
+                                        <br>
+                                        <input type="radio" id="agree-3" name="feedback-3" value="agree-3">
+                                        <label class="radio-botton" for="agree-3">Agree</label>
+                                        <br>
+                                        <input type="radio" id="neutral-3" name="feedback-3" value="neutral-3">
+                                        <label class="radio-botton" for="neutral-3">Neutral</label>
+                                        <br>
+                                        <input type="radio" id="disagree-3" name="feedback-1" value="disagree-3">
+                                        <label class="radio-botton" for="disagree-3">Disagree</label>
+                                        <br>
+                                        <input type="radio" id="strongly-disagree-3" name="feedback-3" value="strongly-disagree-3">
+                                        <label class="radio-botton" for="strongly-disagree-3">Strongly Disagree</label>
+                                        </li>
+                        </ol>
+                    </div>
+                        <div class="additional-remarks">
+                            <h2>Additonal remarks <i class="fas fa-pencil-alt"></i></h2>
+                            <textarea name="comment" placeholder="Type your additional remarks here" rows="20" cols="100" required></textarea>
+                        </div>
+                        <input type="submit" class="button" value="Submit">
+                        <input type="reset" class="button" value="Reset">
+                 </form>
+
+
+            </div>
+      
     </section>
         <footer>
             <ul class="social-network">

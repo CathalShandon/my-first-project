@@ -110,6 +110,113 @@ img {
     height: 100px;
     object-fit: cover;
 }
+/* contact us */
+
+#feedback {
+    clear: both;
+    padding-left: 30px;
+}
+.contact-form {
+    color: #151414;
+    background-color: #fff;
+    max-width: 800px;
+    padding: 30px;
+    border-radius: 10px;
+    margin: 0 auto;
+    margin-top: 1.5%;
+}
+.contact-heading h1 {
+    color: #046231;
+    margin-bottom: 40px;
+}
+
+.contact-details {
+    width: 550px;
+}
+
+.contact-details h2 {
+    margin-bottom: 20px;
+}
+
+.contact-details input {
+    background: transparent;
+    color: #151414;
+    width: 100%;
+    height: 30px;
+    margin: 10px 0 25px 0;
+    border: 1px solid #5c5a5a;
+    border-radius: 2px;
+}
+
+.contact-details input:hover {
+    border-color: rgb(153, 8, 32);
+    cursor: pointer;
+}
+
+.contact-details fa {
+    margin-left: 25px;
+}
+
+.questionnaires h3 {
+    color: #046231;
+    margin-top: 20px;
+}
+
+.questionnaires hr {
+    border-top: 2px solid #151414;
+    width: 43%;
+    margin: 10px 0;
+}
+
+.feedback-questionnaire {
+    padding-left: 25px;
+}
+
+.radio-botton {
+    margin: 0 20px 40px 0;
+    cursor: pointer;
+    line-height: 5px;
+}
+.additional-remarks {
+    margin-top: 20px;
+}
+
+.additional-remarks h2 {
+    margin-bottom: 20px;
+}
+
+.additional-remarks textarea {
+    border-color: #be0e0e;
+    border-radius: 5px;
+    width: 100%;
+    margin-top: 10px;
+    height: 15rem;
+    background-color: #edf3f0;
+}
+
+.button {
+    margin-top: 15px;
+    border-radius: 5px;
+    padding: 10px 20px 10px 20px;
+    text-align: center;
+    font-size: 110%;
+    background-color: #0ad17e;
+    color: #000000;
+    display: inline-block;
+}
+
+.button:hover {
+    background-color: rgb(4, 82, 39);
+    color: #e74c3c;
+    cursor: pointer;
+}
+
+.form-layout {
+    text-align: left;
+    max-width: 800px;
+    display: flex;
+}
+
 
 /* footer */
 
