@@ -15,7 +15,7 @@ A live website can be found here
     - [Feedback page](#feedback-page)
 
 <a name="ux"></a>
-# 1. User Expereince
+# 1. User Experience
 Most adults at some stage might feel stressed or under pressure during their busy days. Perhaps some have anxious feelings and something worries can develope at certain time in thier life.
 
 Users of this site will gain information about the retreat and what you can do there like medidate and get rid of all there stress and worry. The site also has a link in it for book to book a stay at the retreat.
@@ -30,7 +30,7 @@ The user can also navigate through the site easily, understand the information b
 ### Home Page
 ![Desktop Version](./assets/images/Home-desktop.png)
 
-[Mobile Version](./assets/images/Home-mobile.png)
+![Mobile](./assets/images/Home-mobile.png)
 
 <a name="gallery-page"></a>
 ### Gallery Page
