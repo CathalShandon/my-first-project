@@ -312,7 +312,7 @@ footer {
 
     #come-visit {
         width: 90%;
-        height: 1200px;
+        height: 100px;
         margin: 0 auto;
     }
     .left-about-heading, .right-about-heading {
@@ -364,7 +364,7 @@ footer {
         clear: left;
         float: left;
         margin-left: 15px;
-        margin-bottom: 0px;
+        margin-bottom: 10px;
         line-height: 10px;
     }
     #cover-text {
