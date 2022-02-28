@@ -71,25 +71,25 @@ img {
     margin: 20px 0;
     font-size: 280%;
 }
-#left-about {
+#left-side {
     padding-top: 30px;
     width: 45%;
     float: left;
 }
-#right-about {
+#right-side {
     padding-top: 30px;
     width: 45%;
     float: right;
 }
 
-.left-about-heading {
+.left-side-heading {
     width: 60%;
     float: right;
     line-height: 20px;
     clear: both;
     margin-bottom: 50px;
 }
-.right-about-heading {
+.right-side-heading {
     width: 60%;
     float: left;
     line-height: 20px;
@@ -270,7 +270,7 @@ footer {
         padding: 30px 0;
         margin: 0;
     }
-    #left-about, #right-about {
+    #left-side, #right-side {
         width: 100%;
         float: left;
         padding: 0;
@@ -315,16 +315,16 @@ footer {
         height: 100px;
         margin: 0 auto;
     }
-    .left-about-heading, .right-about-heading {
+    .left-side-heading, .right-side-heading {
         width: inherit;
     }
 
-    .left-about-heading h2, .right-about-heading h2 {
+    .left-side-heading h2, .right-side-heading h2 {
         width: 100%;
         text-align: center;
     }
 
-    .left-about-heading p, .right-about-heading p {
+    .left-side-heading p, .right-side-heading p {
         text-align: center;
         padding: 0 20px;
     }
@@ -376,16 +376,16 @@ footer {
         height: 1200px;
         margin: 0 auto;
     }
-    .left-about-heading, .right-about-heading {
+    .left-side-heading, .right-side-heading {
         width: inherit;
     }
 
-    .left-about-heading h2, .right-about-heading h2 {
+    .left-side-heading h2, .right-side-heading h2 {
         width: 100%;
         text-align: center;
     }
 
-    .left-about-heading p, .right-about-heading p {
+    .left-side-heading p, .right-side-heading p {
         text-align: center;
         padding: 0 20px;
     }

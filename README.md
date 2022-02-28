@@ -2,15 +2,27 @@
 # Dzogchen Beara
 Welcome!
 # Introudcution
-Dzogchen Beara is a Tibetan Buddhist Retreat centre on the wild and beautiful Beara Peninsula in County Cork, in south-west Ireland.The community extends a warm and open-hearted welcome to all and offers a choice of accommodation and a year-round programme of retreats, seminars, workshops and professional training.Dzogchen Beara is part of Rigpa, an international network of Buddhist centres dedicated to making the Buddhist teachings of meditation, compassion and wisdom available to the modern world.        In June 1993 Harriet died of cancer at the age of 44. Harriet’s peaceful death and the care she received inspired the development of the Spiritual Care Education Programme and the building of the Spiritual Care Centre at Dzogchen Beara. To read more download In Memory of Harriet by Peter Cornish.
-
-Rigpa undertook a series of reforms throughout the organisation, following the retirement of Sogyal Rinpoche in August 2017, and serious allegations and complaints against him and Rigpa. These allegations were investigated and an independent report was published in September 2018. We continue to act upon the recommendations of this report, details of which can be read by clicking here, along with press statements and more information about changes in Rigpa.
-
-Sogyal Rinpoche passed away on Wednesday 28 August 2019, following complications during cancer treatment.
-
-The main aim of this project is to incourage people to vist Dzoghen Beara and to get vital feedback on their stay
+Dzogchen Beara is a website desgined for Tibetan Buddish Retreat centre on the wild atlantic way.  Dzogchen Beara is part of Rigpa, an international network of Buddhist centres dedicated to making the Buddhist teachings of meditation, compassion and wisdom available to the modern world. The site provies information about the centre and things you can do there. The main aim of this project is to incourage people to vist Dzoghen Beara and to get vital feedback on their stay.The site is targeted to people who are looking to go on a retreat and to get a break from thier busy and hectic lives. 
 
 A live website can be found here
 
  
 # Table of Contents
+[1. User Expereince](#ux)
+[1.2 Site skeleton (wireframes)](#wireframes)
+ - [Introduction page](#introduction-page)
+    -[Gallery page](#gallery-page)
+    - [Feedback page](#feedback-page)
+
+<a name="ux"></a>
+# 1. User Expereince
+Most adults at some stage might feel stressed or under pressure during their busy days. Perhaps some have anxious feelings and something worries can develope at certain time in thier life.
+
+Users of this site will gain information about the retreat and what you can do there like medidate and get rid of all there stress and worry. The site also has a link in it for book to book a stay at the retreat.
+
+The user can also navigate through the site easily, understand the information being presented, give feedback on there stay and view the websites cleary on different devices.
+
+<a name="wireframes"></a>
+## 1.2 Site Skeleton
+[Balsamiq](https://balsamiq.com/) was used to create wireframes of the website. This was very useful as it gives the template of the UI. Wireframes were designed for web browser and a mobile browser format. The concept design (wireframes) of webpages prepared is presented below.
+
