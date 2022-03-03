@@ -14,6 +14,8 @@ A live website can be found here
     -[Gallery page](#gallery-page)
     - [Feedback page](#feedback-page)
 
+[2. Home](#home)
+
 <a name="ux"></a>
 # 1. User Experience
 Most adults at some stage might feel stressed or under pressure during their busy days. Perhaps some have anxious feelings and something worries can develope at certain time in thier life.
@@ -43,3 +45,18 @@ The user can also navigate through the site easily, understand the information b
 ![Desktop Version](./assets/images/feedback-desktop.png)
 
 ![Mobile ](./assets/images/feedback-mobile.png)
+
+ <a name="home"></a>
+# 2. Home
+(#table-of-contents)
+
+### Introduction page:
+-A picture of the temple looking across the ocean is displayed just below the title.
+-The page contains the title "About" by which is divied into four divisions. The first being the locationand the community, The second being spiritual, third being the history of the locality and the fourth being the accommdation with a link to the page where can book a stay.
+
+### Gallery page:
+-The gallery page just has the title Dzogchen Beara and is again divided into four sections with pictures.
+-The first is "Medidation" with image of people medidiating and the benefits of medidiating, second is "Amazing views" with image of the centre overlooking the altanic ocean, third which is the "Cafe and Shop" image of the shop and opening times, and the fouth being "Shrine Room" image of people medidiating in the shrine room and information about the room.
+
+### Feedback page
+-
