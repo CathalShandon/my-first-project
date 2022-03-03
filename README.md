@@ -36,10 +36,10 @@ The user can also navigate through the site easily, understand the information b
 ### Gallery Page
 ![Desktop Version](./assets/images/gallery-desktop.png)
 
-[Mobile Version](./assets/images/gallery-mobile.png)
+![Mobile ](./assets/images/gallery-mobile.png)
 
 <a name="feedback-page"></a>
 ### Feedback Page
 ![Desktop Version](./assets/images/feedback-desktop.png)
 
-[Mobile Version](./assets/images/feedback-mobile.png)
+![Mobile ](./assets/images/feedback-mobile.png)
