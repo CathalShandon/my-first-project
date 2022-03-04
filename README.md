@@ -14,7 +14,7 @@ A live website can be found here
     -[Gallery page](#gallery-page)
     - [Feedback page](#feedback-page)
 
-[2. Home](#home)
+[2. Features](#features)
 
 <a name="ux"></a>
 # 1. User Experience
@@ -46,11 +46,11 @@ The user can also navigate through the site easily, understand the information b
 
 ![Mobile ](./assets/images/feedback-mobile.png)
 
- <a name="home"></a>
-# 2. Home
+ <a name="features"></a>
+# 2. Features
 (#table-of-contents)
 
-### Introduction page:
+### Home page:
 -A picture of the temple looking across the ocean is displayed just below the title.
 -The page contains the title "About" by which is divied into four divisions. The first being the locationand the community, The second being spiritual, third being the history of the locality and the fourth being the accommdation with a link to the page where can book a stay.
 
@@ -59,4 +59,19 @@ The user can also navigate through the site easily, understand the information b
 -The first is "Medidation" with image of people medidiating and the benefits of medidiating, second is "Amazing views" with image of the centre overlooking the altanic ocean, third which is the "Cafe and Shop" image of the shop and opening times, and the fouth being "Shrine Room" image of people medidiating in the shrine room and information about the room.
 
 ### Feedback page
--
+-The feedback pages includes the ability to message the retreat, provide feedback and suggestions. 
+-Includes giving a rate on your stay forms where users can choose the options from (strongly agree, agree, neutral, disagree, strongly disagree) using radio-button option.
+- The Submit and Reset buttons with hoever effect on it
+- The form use the method="POST" action="https://formdump.codeinstitute.net/"
+- I use the option of placeholder for full name and email address.
+
+# 3. Technologies Used
+
+* [HTML5](https://en.wikipedia.org/wiki/HTML5) (markup language) was used for structuring and presenting content of the website.
+ * [CSS3](https://en.wikipedia.org/wiki/CSS) (Cascading Style Sheets) was used to provide the style to the content written in a HTML.
+* [Balsamiq](https://balsamiq.com/) was used to create wireframes of the website (desktop and mobile version).
+* [Google Fonts](https://fonts.google.com/) was used to import font-family "Playfair" and "Roboto" into style,css file and which was used throughout the pages of the website.
+* [Font Awesome](https://fontawesome.com/) was used to improt icons to the sites.
+* [Chrome](https://www.google.com/intl/en_uk/chrome/) was used to debug and test the source code using HTML5 as well as to test site responsiveness.
+* [Github](https://github.com/) was used to create the repository and to store the project's code after pushed from Git.
+* [Gitpod](https://www.gitpod.io/) was used as the Code Editor for the site
