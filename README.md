@@ -8,15 +8,15 @@ A live website can be found here
 
  
 # Table of Contents
-[1. User Expereince](#ux)
-[Site skeleton (wireframes)](#wireframes)
- - [Introduction page](#introduction-page)
-    -[Gallery page](#gallery-page)
-    - [Feedback page](#feedback-page)
+[1. User Experience](#ue)
+ - [Site skeleton (wireframes)](#wireframes)
+   - [Home page](#home-page)
+   - [Gallery page](#gallery-page)
+   - [Feedback page](#feedback-page)
 
 [2. Features](#features)
 
-<a name="ux"></a>
+<a name="ue"></a>
 # 1. User Experience
 Most adults at some stage might feel stressed or under pressure during their busy days. Perhaps some have anxious feelings and something worries can develope at certain time in thier life.
 
@@ -51,19 +51,25 @@ The user can also navigate through the site easily, understand the information b
 (#table-of-contents)
 
 ### Home page:
--A picture of the temple looking across the ocean is displayed just below the title.
--The page contains the title "About" by which is divied into four divisions. The first being the locationand the community, The second being spiritual, third being the history of the locality and the fourth being the accommdation with a link to the page where can book a stay.
+- A picture of the temple looking across the ocean is displayed just below the title.
+- The page contains the title "About" by which is divied into four divisions. The first being the locationand the community, The second being spiritual, third being the history of the locality and the fourth being the accommdation with a link to the page where can book a stay.
+
+The screenshot of Home page is below:
 
 ### Gallery page:
--The gallery page just has the title Dzogchen Beara and is again divided into four sections with pictures.
--The first is "Medidation" with image of people medidiating and the benefits of medidiating, second is "Amazing views" with image of the centre overlooking the altanic ocean, third which is the "Cafe and Shop" image of the shop and opening times, and the fouth being "Shrine Room" image of people medidiating in the shrine room and information about the room.
+- The gallery page just has the title Dzogchen Beara and is again divided into four sections with pictures.
+- The first is "Medidation" with image of people medidiating and the benefits of medidiating, second is "Amazing views" with image of the centre overlooking the altanic ocean, third which is the "Cafe and Shop" image of the shop and opening times, and the fouth being "Shrine Room" image of people medidiating in the shrine room and information about the room.
+
+The screenshot of Gallery page is below:
 
 ### Feedback page
--The feedback pages includes the ability to message the retreat, provide feedback and suggestions. 
--Includes giving a rate on your stay forms where users can choose the options from (strongly agree, agree, neutral, disagree, strongly disagree) using radio-button option.
+- The feedback pages includes the ability to message the retreat, provide feedback and suggestions. 
+- Includes giving a rate on your stay forms where users can choose the options from (strongly agree, agree, neutral, disagree, strongly disagree) using radio-button option.
 - The Submit and Reset buttons with hoever effect on it
 - The form use the method="POST" action="https://formdump.codeinstitute.net/"
 - I use the option of placeholder for full name and email address.
+
+The screenshot of Feedback page is below:
 
 # 3. Technologies Used
 
@@ -75,3 +81,12 @@ The user can also navigate through the site easily, understand the information b
 * [Chrome](https://www.google.com/intl/en_uk/chrome/) was used to debug and test the source code using HTML5 as well as to test site responsiveness.
 * [Github](https://github.com/) was used to create the repository and to store the project's code after pushed from Git.
 * [Gitpod](https://www.gitpod.io/) was used as the Code Editor for the site
+
+# 4. Testing
+Go to the top](#table-of-contents)
+## 4.1 Testing using tools
+### 4.1.1 Google Developer Tools
+I made use of google developer tools (Chrome DevTools) as a debugging tools. When using this tool I inspected for every elements that I added in HTML and CSS style. Once I was happy with them I copied the CSS style code from Chrome DevTools and paste in my CSS style sheet.I also used the the tool in order to make sure that design web pages are responsive to all device sizes
+
+### 4.1.3 W3C Validator Tools
+[W3C Markup](https://validator.w3.org/#validate_by_input+with_options) was used to check for any errors within my HTML pages.
