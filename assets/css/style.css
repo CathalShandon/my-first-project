@@ -28,15 +28,18 @@ h1, h2 {
 
 /* navigation links */
 
-#menu {
+#navigation {
     font-size: 110%;
     letter-spacing: 4px;
 }
 
-#menu li {
+#navigation li {
     float: right;
     list-style-type: none;
     margin-right: 30px;
+}
+#navigation a:hover {
+    border-bottom: 1px solid #3a3a3a;
 }
 
 /* background image */

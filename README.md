@@ -6,6 +6,7 @@ Dzogchen Beara is a website desgined for Tibetan Buddish Retreat centre on the w
 
 A live website can be found here
 
+## Table of Contents 
  
 # Table of Contents
 [1. User Experience](#ue)
@@ -48,7 +49,7 @@ The user can also navigate through the site easily, understand the information b
 
  <a name="features"></a>
 # 2. Features
-(#table-of-contents)
+[Go to the top](#table-of-contents)
 
 ### Home page:
 - A picture of the temple looking across the ocean is displayed just below the title.
@@ -83,10 +84,32 @@ The screenshot of Feedback page is below:
 * [Gitpod](https://www.gitpod.io/) was used as the Code Editor for the site
 
 # 4. Testing
-Go to the top](#table-of-contents)
+[Go to the top](#table-of-contents)
 ## 4.1 Testing using tools
 ### 4.1.1 Google Developer Tools
 I made use of google developer tools (Chrome DevTools) as a debugging tools. When using this tool I inspected for every elements that I added in HTML and CSS style. Once I was happy with them I copied the CSS style code from Chrome DevTools and paste in my CSS style sheet.I also used the the tool in order to make sure that design web pages are responsive to all device sizes
 
-### 4.1.3 W3C Validator Tools
+### 4.1.2 W3C Validator Tools
 [W3C Markup](https://validator.w3.org/#validate_by_input+with_options) was used to check for any errors within my HTML pages.
+
+
+## All 3 pages:
+ ### Navigation bars
+ TEST            | OUTCOME                          | PASS / FAIL  
+--------------- | -------------------------------- | ---------------
+Home page | When I click on "Home", the browser redirects me to the Home page. When I hoever over the "Home" it underlines it.| PASS
+Gallery page | on click "Gallery", the browser redirects me to the Gallery page. The hoever effect underline appears when mouse is on "Gallery". | PASS
+Feedback page| on click to "feedback page", the browser redirects me to the feedback page. The hoever effect underline appears when mouse is on "feedback page". | PASS
+Responsive| All pages and elements were responsive (mobile and website) using differnt breakpoints.| PASS
+External Links|Checked if the external link "Book here" redirect to the Accomadtion page and open in new tab.| PASS
+Text|Checked if all fonts and colors used are consistent or not|PASS
+Back to top|Checked if the page redirect to the top of the page when clicking the back to top on the bottom left corner of the page| PASS
+|||
+
+### Footer
+TEST            | OUTCOME                          | PASS / FAIL  
+--------------- | -------------------------------- | ---------------
+Facebook | on clicking Facebook icon, a new tab opens and redirects to the Facebook website.| PASS
+Twitter| on clicking Twitter icon, a new tab opens and redirects to the Twitter website.  | PASS
+Youtube| on clicking youtube icon, a new tab opens and redirects to the youtube we.| PASS
+Instagram| on clicking instagram icon, a new tab opens and redirects to the instagram website.  | PASS
