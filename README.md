@@ -101,7 +101,6 @@ Home page | When I click on "Home", the browser redirects me to the Home page. W
 Gallery page | on click "Gallery", the browser redirects me to the Gallery page. The hoever effect underline appears when mouse is on "Gallery". | PASS
 Feedback page| on click to "feedback page", the browser redirects me to the feedback page. The hoever effect underline appears when mouse is on "feedback page". | PASS
 Responsive| All pages and elements were responsive (mobile and website) using differnt breakpoints.| PASS
-External Links|Checked if the external link "Book here" redirect to the Accomadtion page and open in new tab.| PASS
 Text|Checked if all fonts and colors used are consistent or not|PASS
 Back to top|Checked if the page redirect to the top of the page when clicking the back to top on the bottom left corner of the page| PASS
 |||
@@ -110,6 +109,27 @@ Back to top|Checked if the page redirect to the top of the page when clicking th
 TEST            | OUTCOME                          | PASS / FAIL  
 --------------- | -------------------------------- | ---------------
 Facebook | on clicking Facebook icon, a new tab opens and redirects to the Facebook website.| PASS
-Twitter| on clicking Twitter icon, a new tab opens and redirects to the Twitter website.  | PASS
+Twitter|Checked if submit and reset button works or not.| PASS
 Youtube| on clicking youtube icon, a new tab opens and redirects to the youtube we.| PASS
 Instagram| on clicking instagram icon, a new tab opens and redirects to the instagram website.  | PASS
+
+### Home page
+TEST            | OUTCOME                          | PASS / FAIL  
+--------------- | -------------------------------- | ---------------
+Media|Hero image checked to ensure it loaded .| PASS
+Responsive| All pages and elements were responsive (mobile and website) using different breakpoints.| PASS
+External Links|Checked if the external link "Book here" redirect to the Accomadtion page and open in new tab.| PASS
+Accessssibilty|Checked the accessibility of the page using lighthouse | PASS
+(./assets/images/home-lighthouse.png)
+### Gallery page
+Media|All images on the pages load. All images were checked if it blurred in different screen sizes.| PASS
+Responsive| All pages and elements were responsive (mobile and website) using differnt breakpoints.| PASS
+Accessssibilty|Checked the accessibility of the page using lighthouse | PASS
+(./assets/images/gallery-lighthouse.png)
+### Feedback page
+Radio buttons|Checked if radio button works or not.| PASS
+Responsive| All pages and elements were responsive (mobile and website) using differnt breakpoints.| PASS
+Accessssibilty|Checked the accessibility of the page using lighthouse | PASS
+Google maps|Checked if google map when clicked on view larger map redirect to the google map page in new tab works ot not| PASS
+Submit/Reset|Checked if submit and reset button works or not.| PASS
+(./assets/images/feedback-lighthouse.png)
