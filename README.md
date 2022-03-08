@@ -122,14 +122,18 @@ External Links|Checked if the external link "Book here" redirect to the Accomadt
 Accessssibilty|Checked the accessibility of the page using lighthouse | PASS
 (./assets/images/home-lighthouse.png)
 ### Gallery page
+TEST            | OUTCOME                          | PASS / FAIL  
+--------------- | -------------------------------- | ---------------
 Media|All images on the pages load. All images were checked if it blurred in different screen sizes.| PASS
 Responsive| All pages and elements were responsive (mobile and website) using differnt breakpoints.| PASS
 Accessssibilty|Checked the accessibility of the page using lighthouse | PASS
 (./assets/images/gallery-lighthouse.png)
 ### Feedback page
+TEST            | OUTCOME                          | PASS / FAIL  
+--------------- | -------------------------------- | ---------------
 Radio buttons|Checked if radio button works or not.| PASS
 Responsive| All pages and elements were responsive (mobile and website) using differnt breakpoints.| PASS
 Accessssibilty|Checked the accessibility of the page using lighthouse | PASS
 Google maps|Checked if google map when clicked on view larger map redirect to the google map page in new tab works ot not| PASS
 Submit/Reset|Checked if submit and reset button works or not.| PASS
-(./assets/images/feedback-lighthouse.png)
+(/assets/images/feedback-lighthouse.png)
