@@ -120,6 +120,7 @@ Media|Hero image checked to ensure it loaded .| PASS
 Responsive| All pages and elements were responsive (mobile and website) using different breakpoints.| PASS
 External Links|Checked if the external link "Book here" redirect to the Accomadtion page and open in new tab.| PASS
 Accessssibilty|Checked the accessibility of the page using lighthouse | PASS
+
 ![home-page accessibility](./assets/images/home-lighthouse.png)
 ### Gallery page
 TEST            | OUTCOME                          | PASS / FAIL  
@@ -127,6 +128,7 @@ TEST            | OUTCOME                          | PASS / FAIL
 Media|All images on the pages load. All images were checked if it blurred in different screen sizes.| PASS
 Responsive| All pages and elements were responsive (mobile and website) using differnt breakpoints.| PASS
 Accessssibilty|Checked the accessibility of the page using lighthouse | PASS
+
 ![gallery-page accessibility](./assets/images/gallery-lighthouse.png)
 ### Feedback page
 TEST            | OUTCOME                          | PASS / FAIL  
@@ -136,12 +138,15 @@ Responsive| All pages and elements were responsive (mobile and website) using di
 Accessssibilty|Checked the accessibility of the page using lighthouse | PASS
 Google maps|Checked if google map when clicked on view larger map redirect to the google map page in new tab works ot not| PASS
 Submit/Reset|Checked if submit and reset button works or not.| PASS
+
 ![feedback-page accessibility](./assets/images/feedback-lighthouse.png)
 
 ### 5. Bugs
 - When i checked the accessibility of feedback page I discovered I forget to add title to iframe (google map). I solved it by adding title "google map".
 - W3C html validation did not pass for index page and has an error " No space between attributes.". I solved this by simply putting a space between the website adress and the target.
 - W3C html validation also had a warning for index page "Section lacks heading. Consider using h2-h6 elements to add identifying headings to all sections." I didnt try to change this beacause i didnt think it was abosolutely necessary.
+
+![W3C html validation ](.assets/images/w3c-html.png)
 
 ### 6. Deployment
 - Sign up to GutHub
