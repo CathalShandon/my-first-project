@@ -16,7 +16,9 @@ A live website can be found [here](https://cathalshandon.github.io/my-first-proj
    - [Feedback page](#feedback-page)
    
 [2. Features](#features)
+
 [3. Technologies Used](#technologies-used)
+
 [4. Testing](#testing)
   - [Google Developer Tools]
   - [W3C Validator Tools]
@@ -92,8 +94,7 @@ The screenshot of Feedback page is below:
 
 # 4. Testing
 [Go to the top](#table-of-contents)
-## 4.1
- Testing using tools
+## 4.1 Testing using tools
 ### 4.1.1 Google Developer Tools
 I made use of google developer tools (Chrome DevTools) as a debugging tools. When using this tool I inspected for every elements that I added in HTML and CSS style. Once I was happy with them I copied the CSS style code from Chrome DevTools and paste in my CSS style sheet.I also used the the tool in order to make sure that design web pages are responsive to all device sizes
 
