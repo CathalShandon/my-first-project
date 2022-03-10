@@ -14,8 +14,12 @@ A live website can be found [here](https://cathalshandon.github.io/my-first-proj
    - [Home page](#home-page)
    - [Gallery page](#gallery-page)
    - [Feedback page](#feedback-page)
-
+   
 [2. Features](#features)
+[3. Technologies Used](#technologies-used)
+[4. Testing](#testing)
+  - [Google Developer Tools]
+  - [W3C Validator Tools]
 
 <a name="ue"></a>
 # 1. User Experience
@@ -56,13 +60,15 @@ The user can also navigate through the site easily, understand the information b
 - The page contains the title "About" by which is divied into four divisions. The first being the locationand the community, The second being spiritual, third being the history of the locality and the fourth being the accommdation with a link to the page where can book a stay.
 
 The screenshot of Home page is below:
+
 ![home page preview](./assets/images/Dzogchen-Beara-Home-page.png)
 ### Gallery page:
 - The gallery page just has the title Dzogchen Beara and is again divided into four sections with pictures.
 - The first is "Medidation" with image of people medidiating and the benefits of medidiating, second is "Amazing views" with image of the centre overlooking the altanic ocean, third which is the "Cafe and Shop" image of the shop and opening times, and the fouth being "Shrine Room" image of people medidiating in the shrine room and information about the room.
 
 The screenshot of Gallery page is below:
-![gallery page preview](./assets/images/Dzogchen-Beara-Feedback-gallery-page.png)
+
+![gallery page preview](./assets/images/Dzogchen-Beara-Gallery-page.png)
 ### Feedback page
 - The feedback pages includes the ability to message the retreat, provide feedback and suggestions. 
 - Includes giving a rate on your stay forms where users can choose the options from (strongly agree, agree, neutral, disagree, strongly disagree) using radio-button option.
@@ -71,6 +77,7 @@ The screenshot of Gallery page is below:
 - I use the option of placeholder for full name and email address.
 
 The screenshot of Feedback page is below:
+
 ![feedback page preview](./assets/images/Dzogchen-Beara-Feedback-page.png)
 # 3. Technologies Used
 
@@ -85,7 +92,8 @@ The screenshot of Feedback page is below:
 
 # 4. Testing
 [Go to the top](#table-of-contents)
-## 4.1 Testing using tools
+## 4.1
+ Testing using tools
 ### 4.1.1 Google Developer Tools
 I made use of google developer tools (Chrome DevTools) as a debugging tools. When using this tool I inspected for every elements that I added in HTML and CSS style. Once I was happy with them I copied the CSS style code from Chrome DevTools and paste in my CSS style sheet.I also used the the tool in order to make sure that design web pages are responsive to all device sizes
 
