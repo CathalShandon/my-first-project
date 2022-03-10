@@ -81,6 +81,8 @@ The screenshot of Gallery page is below:
 The screenshot of Feedback page is below:
 
 ![feedback page preview](./assets/images/Dzogchen-Beara-Feedback-page.png)
+
+<a name="technologies-used"></a>
 # 3. Technologies Used
 
 * [HTML5](https://en.wikipedia.org/wiki/HTML5) (markup language) was used for structuring and presenting content of the website.
@@ -92,6 +94,7 @@ The screenshot of Feedback page is below:
 * [Github](https://github.com/) was used to create the repository and to store the project's code after pushed from Git.
 * [Gitpod](https://www.gitpod.io/) was used as the Code Editor for the site
 
+<a name="testing"></a>
 # 4. Testing
 [Go to the top](#table-of-contents)
 ## 4.1 Testing using tools
@@ -155,7 +158,7 @@ Submit/Reset|Checked if submit and reset button works or not.| PASS
 - W3C html validation did not pass for index page and has an error " No space between attributes.". I solved this by simply putting a space between the website adress and the target.
 - W3C html validation also had a warning for index page "Section lacks heading. Consider using h2-h6 elements to add identifying headings to all sections." I didnt try to change this beacause i didnt think it was abosolutely necessary.
 
-![W3C html validation](.assets/images/w3c-html.png)
+![W3C html validation](./assets/images/w3c-html.png)
 
 ### 6. Deployment
 - Sign up to GutHub
