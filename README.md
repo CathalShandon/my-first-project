@@ -56,13 +56,13 @@ The user can also navigate through the site easily, understand the information b
 - The page contains the title "About" by which is divied into four divisions. The first being the locationand the community, The second being spiritual, third being the history of the locality and the fourth being the accommdation with a link to the page where can book a stay.
 
 The screenshot of Home page is below:
-![home page preview](./assets/images/Home.png)
+![home page preview](./assets/images/Dzogchen-Beara-Home-page.png)
 ### Gallery page:
 - The gallery page just has the title Dzogchen Beara and is again divided into four sections with pictures.
 - The first is "Medidation" with image of people medidiating and the benefits of medidiating, second is "Amazing views" with image of the centre overlooking the altanic ocean, third which is the "Cafe and Shop" image of the shop and opening times, and the fouth being "Shrine Room" image of people medidiating in the shrine room and information about the room.
 
 The screenshot of Gallery page is below:
-![gallery page preview](./assets/images/gallery.png)
+![gallery page preview](./assets/images/Dzogchen-Beara-Feedback-gallery-page.png)
 ### Feedback page
 - The feedback pages includes the ability to message the retreat, provide feedback and suggestions. 
 - Includes giving a rate on your stay forms where users can choose the options from (strongly agree, agree, neutral, disagree, strongly disagree) using radio-button option.
@@ -71,7 +71,7 @@ The screenshot of Gallery page is below:
 - I use the option of placeholder for full name and email address.
 
 The screenshot of Feedback page is below:
-![feedback page preview](./assets/images/Feedback.png)
+![feedback page preview](./assets/images/Dzogchen-Beara-Feedback-page.png)
 # 3. Technologies Used
 
 * [HTML5](https://en.wikipedia.org/wiki/HTML5) (markup language) was used for structuring and presenting content of the website.
@@ -146,7 +146,7 @@ Submit/Reset|Checked if submit and reset button works or not.| PASS
 - W3C html validation did not pass for index page and has an error " No space between attributes.". I solved this by simply putting a space between the website adress and the target.
 - W3C html validation also had a warning for index page "Section lacks heading. Consider using h2-h6 elements to add identifying headings to all sections." I didnt try to change this beacause i didnt think it was abosolutely necessary.
 
-![W3C html validation ](.assets/images/w3c-html.png)
+![W3C html validation](.assets/images/w3c-html.png)
 
 ### 6. Deployment
 - Sign up to GutHub
