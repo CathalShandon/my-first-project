@@ -23,6 +23,12 @@ A live website can be found [here](https://cathalshandon.github.io/my-first-proj
   - [Google Developer Tools](#google-developer-tools)
   - [W3C Validator Tools](#w3c-validator-tools)
 
+[5. Bugs](#bugs)
+
+[6. Deployment](#deployment)
+
+[7. Acknowledgement](#acknowledgement)
+
 <a name="ue"></a>
 # 1. User Experience
 Most adults at some stage might feel stressed or under pressure during their busy days. Perhaps some have anxious feelings and something worries can develope at certain time in thier life.
@@ -97,10 +103,13 @@ The screenshot of Feedback page is below:
 <a name="testing"></a>
 # 4. Testing
 [Go to the top](#table-of-contents)
+
 ## 4.1 Testing using tools
+<a name="google-developer-tools"></a>
 ### 4.1.1 Google Developer Tools
 I made use of google developer tools (Chrome DevTools) as a debugging tools. When using this tool I inspected for every elements that I added in HTML and CSS style. Once I was happy with them I copied the CSS style code from Chrome DevTools and paste in my CSS style sheet.I also used the the tool in order to make sure that design web pages are responsive to all device sizes
 
+<a name="w3c-validator-tools"></a>
 ### 4.1.2 W3C Validator Tools
 [W3C Markup](https://validator.w3.org/#validate_by_input+with_options) was used to check for any errors within my HTML pages.
 
@@ -115,7 +124,6 @@ Feedback page| on click to "feedback page", the browser redirects me to the feed
 Responsive| All pages and elements were responsive (mobile and website) using differnt breakpoints.| PASS
 Text|Checked if all fonts and colors used are consistent or not|PASS
 
-|||
 
 ### Footer
 TEST            | OUTCOME                          | PASS / FAIL  
@@ -153,6 +161,7 @@ Submit/Reset|Checked if submit and reset button works or not.| PASS
 
 ![feedback-page accessibility](./assets/images/feedback-lighthouse.png)
 
+<a name="bugs"></a>
 ### 5. Bugs
 - When i checked the accessibility of feedback page I discovered I forget to add title to iframe (google map). I solved it by adding title "google map".
 - W3C html validation did not pass for index page and has an error " No space between attributes.". I solved this by simply putting a space between the website adress and the target.
@@ -160,6 +169,7 @@ Submit/Reset|Checked if submit and reset button works or not.| PASS
 
 ![W3C html validation](./assets/images/w3c-html.png)
 
+<a name="deployment"></a>
 ### 6. Deployment
 - Sign up to GutHub
 - Create a new repository on GitHub.
@@ -169,7 +179,8 @@ Submit/Reset|Checked if submit and reset button works or not.| PASS
 - This will now generate a link with your website live.
 - The live link can be found here -(https://cathalshandon.github.io/my-first-project/)
 
+<a name="acknowledgement"></a>
 ### 7. Acknowledgement
-- The code for the "About" section came fro the love running project.
+- The code for the "About" section came from the love running project.
 - The code for the footer came from the love running project.
 - the Icons for the footer came from Font Awesome.
