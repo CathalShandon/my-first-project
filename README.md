@@ -29,6 +29,8 @@ A live website can be found [here](https://cathalshandon.github.io/my-first-proj
 
 [7. Acknowledgement](#acknowledgement)
 
+![website preview](assets/images/Screenshot-163711.jpg)
+
 <a name="ue"></a>
 # 1. User Experience
 Most adults at some stage might feel stressed or under pressure during their busy days. Perhaps some have anxious feelings and something worries can develope at certain time in thier life.
@@ -181,6 +183,11 @@ Submit/Reset|Checked if submit and reset button works or not.| PASS
 
 <a name="acknowledgement"></a>
 ### 7. Acknowledgement
+
+### Code
 - The code for the "About" section came from the love running project.
 - The code for the footer came from the love running project.
 - the Icons for the footer came from Font Awesome.
+### Content
+- Content for the index.html page came from http://www.dzogchenbeara.org/about/
+- Images for gallery page came from google images.
