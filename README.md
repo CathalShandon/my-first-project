@@ -6,6 +6,9 @@ Dzogchen Beara is a website desgined for Tibetan Buddish Retreat centre on the w
 
 A live website can be found [here](https://cathalshandon.github.io/my-first-project/)
 
+![website preview](./assets/images/Screenshot-163711.png)
+
+
 ## Table of Contents 
  
 # Table of Contents
@@ -29,7 +32,6 @@ A live website can be found [here](https://cathalshandon.github.io/my-first-proj
 
 [7. Acknowledgement](#acknowledgement)
 
-![website preview](assets/images/Screenshot-163711.jpg)
 
 <a name="ue"></a>
 # 1. User Experience
