@@ -20,8 +20,8 @@ A live website can be found [here](https://cathalshandon.github.io/my-first-proj
 [3. Technologies Used](#technologies-used)
 
 [4. Testing](#testing)
-  - [Google Developer Tools]
-  - [W3C Validator Tools]
+  - [Google Developer Tools](#google-developer-tools)
+  - [W3C Validator Tools](#w3c-validator-tools)
 
 <a name="ue"></a>
 # 1. User Experience
@@ -114,7 +114,7 @@ Gallery page | on click "Gallery", the browser redirects me to the Gallery page.
 Feedback page| on click to "feedback page", the browser redirects me to the feedback page. The hoever effect underline appears when mouse is on "feedback page". | PASS
 Responsive| All pages and elements were responsive (mobile and website) using differnt breakpoints.| PASS
 Text|Checked if all fonts and colors used are consistent or not|PASS
-Back to top|Checked if the page redirect to the top of the page when clicking the back to top on the bottom left corner of the page| PASS
+
 |||
 
 ### Footer
@@ -168,3 +168,8 @@ Submit/Reset|Checked if submit and reset button works or not.| PASS
 - Click on the main branch and save.
 - This will now generate a link with your website live.
 - The live link can be found here -(https://cathalshandon.github.io/my-first-project/)
+
+### 7. Acknowledgement
+- The code for the "About" section came fro the love running project.
+- The code for the footer came from the love running project.
+- the Icons for the footer came from Font Awesome.

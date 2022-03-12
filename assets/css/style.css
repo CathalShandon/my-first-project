@@ -19,6 +19,7 @@ h1, h2 {
     text-transform: uppercase;
     letter-spacing: 3px;
     color: #252525;
+ 
 }
 
 #heading {
@@ -57,12 +58,29 @@ h1, h2 {
 #budda-home-page-image {
     height: 500px;
     width: 100%;
-    
 }
 img {
     width: 100%;
     height: 100%;
-} 
+    margin-left: auto;
+    margin-right: auto;
+     /* animates zoom effect on loading page */
+     animation-name: budda-zoom;
+     animation-duration: 5s;
+     animation-fill-mode: forwards;
+}
+/* creates the level of zoom for hero image */
+@keyframes hero-zoom {
+    from{
+        transform: scale(1);
+    }
+    to{
+        transform: scale(1.1);
+    }
+}
+.apply {
+    font-weight: bold;
+}
 
 /* getting people to visit */
 #come-visit {
@@ -257,7 +275,11 @@ footer {
     margin: 1%;
     padding: 5%;
     color: #3a3a3a;
-    
+    transition: 0.5s;
+}
+
+.social-network i:hover {
+    color: #6b6a6a;
 }
 /* Media queries */
 
@@ -274,13 +296,14 @@ footer {
         margin: 0;
     }
     img {
-        width: auto;
-        height:100%;
+        width: 100%;
+        height:300px;
     }
     #left-side, #right-side {
         width: 100%;
         float: left;
         padding: 0;
+        margin-bottom: 20px;
     }
     #center-about {
         clear: both;
@@ -306,9 +329,7 @@ footer {
 /* meduim screen sizes from 950px wide and down */
 
 @media screen and (max-width: 950px) {
-    #menu {
-        clear: left;
-        float: left;
+    #navigation {
         margin-left: 30px;
         margin-bottom: 20px;
         line-height: 25px;
@@ -329,6 +350,7 @@ footer {
     .left-side-heading h2, .right-side-heading h2 {
         width: 100%;
         text-align: center;
+        margin-bottom: 20px;
     }
 
     .left-side-heading p, .right-side-heading p {
@@ -367,7 +389,7 @@ footer {
 /*For screen size max width 767 px */
 
 @media screen and (max-width: 767px) {
-    #menu {
+    #navigation {
         clear: left;
         float: left;
         margin-left: 15px;
@@ -390,6 +412,7 @@ footer {
     .left-side-heading h2, .right-side-heading h2 {
         width: 100%;
         text-align: center;
+        margin-bottom: 20px;
     }
 
     .left-side-heading p, .right-side-heading p {
@@ -461,7 +484,4 @@ footer {
         padding: 5px;
     }
 
-    #coagulation {
-        padding: 5px;
-    }
 }
