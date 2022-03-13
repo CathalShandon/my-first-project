@@ -163,7 +163,7 @@ Accessssibilty|Checked the accessibility of the page using lighthouse | PASS
 Google maps|Checked if google map when clicked on view larger map redirect to the google map page in new tab works ot not| PASS
 Submit/Reset|Checked if submit and reset button works or not.| PASS
 
-![feedback-page accessibility](./assets/images/feedback-lighthouse.png)
+![feedback-page accessibility](./assets/images/feedback-lighthouse1.png)
 
 <a name="bugs"></a>
 ### 5. Bugs
