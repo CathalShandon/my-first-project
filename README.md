@@ -23,8 +23,6 @@ A live website can be found [here](https://cathalshandon.github.io/my-first-proj
 [3. Technologies Used](#technologies-used)
 
 [4. Testing](#testing)
-  - [Google Developer Tools](#google-developer-tools)
-  - [W3C Validator Tools](#w3c-validator-tools)
 
 [5. Bugs](#bugs)
 
